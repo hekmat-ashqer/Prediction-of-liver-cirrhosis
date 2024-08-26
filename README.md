@@ -29,8 +29,7 @@ The dataset comprises patient records, including various biomarkers and demograp
 - **Data Preparation**: Cleaned the dataset to handle missing values and outliers, and standardized the data to ensure consistency. Categorical features were encoded, and numerical features were scaled.
 - **Exploratory Data Analysis (EDA)**: Performed to understand the distribution of data and identify key features influencing liver disease. Visualizations included histograms, box plots, and correlation heatmaps.
 
-![Correlation Heatmap](https://via.placeholder.com/500x300?text=Correlation+Heatmap)
-
+![correlations heatmap](https://github.com/user-attachments/assets/40604cb0-e8c3-47bd-8941-0ae17dcab6d4)
 ## Results
 
 ### Key Biomarkers Influencing Liver Disease
@@ -67,3 +66,4 @@ The Liver Disease Prediction project successfully utilized machine learning tech
 
 ### For further information
 For any additional questions, please contact **[hekmat.ashqer@gmail.com]**.
+
